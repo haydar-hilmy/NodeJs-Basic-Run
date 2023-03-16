@@ -19,7 +19,7 @@ kali ini kita membuat web simpel pakai NodeJs
         res.writeHead(200, {'Content-Type': 'text/html'});
         res.end('EveryBody Fellas!');
     }).listen(8080);
-- open cmd and write this line
+- buka cmd dan ubah file directory ke file .js mu tadi, and then write this line
 
 ```bash
 node <filename>.js
