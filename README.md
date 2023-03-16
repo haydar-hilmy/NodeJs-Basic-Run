@@ -7,6 +7,7 @@ kali ini kita membuat web simpel pakai NodeJs
 ## STEP by STEP
 
  - membuat file .js
+
  ![App Screenshot](https://raw.githubusercontent.com/haydar-hilmy/NodeJs-Basic-Run/main/JS%20file.png)
 
 
